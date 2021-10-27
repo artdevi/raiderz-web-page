@@ -1,0 +1,220 @@
+.bg-info-content .hdr-about 	{ no-repeat left top; height: 418px; width: 100%;  }
+
+#about-section div#about-toggle { overflow: hidden; margin: -25px 0 0 25px; }
+#about-section div#about-toggle a { float: left; cursor: pointer; width: 137px; margin: 0 1px; text-align: center; font: bold 12px Verdana; text-decoration: none; }
+#about-toggle a	{ no-repeat left top; color: #a1a1a1; height: 23px; padding: 16px 0 0; }
+#about-section .about-view			{ overflow: hidden; }
+
+.bg-info-content .bg-content-top { no-repeat left top; height: 23px; width: 100%; display: block; margin-top: -2px; }
+.bg-info-content .bg-content-bot { no-repeat left top; height: 22px; width: 100%; display: block; }
+.bg-info-content .bg-content-mid { repeat-y; width: 960px; padding: 0 20px; color: #b2b2b2; font: 12px/18px Verdana; }
+
+.bg-info-content .bg-content-mid h1	{ font: 20px Verdana; color: #ecbf92; margin-bottom: 10px; text-transform: capitalize;}
+.bg-info-content .bg-content-mid h2	{ font: bold 14px/16px Verdana; color: #ecbf92; margin: 20px 0 5px; text-transform: capitalize;}
+.bg-info-content .bg-content-mid h3	{  font: 12px/16px Verdana; color: #ecbf92;  }
+.bg-info-content .bg-content-mid a	{  color: #b67a00;  }
+.bg-info-content .bg-content-mid p 	{ font: 12px/18px Verdana; color: #b2b2b2; margin-bottom: 5px; }
+.bg-content-mid #col01		{ float: left; width: 580px; border-right: 1px dotted #272320; padding-right: 10px; }
+.bg-content-mid #col01 a	{ color: #a67c52; }
+.bg-content-mid #col01		{ float: left; width: 580px; border-right: 1px dotted #272320; padding-right: 10px; }
+.bg-content-mid #col02		{ float: right; width: 315px;  }
+.bg-content-mid .row		{ clear: both; margin: 10px 0; }
+.bg-content-mid .row .img-left	{ float: left;  }
+.bg-content-mid .row .img-right	{ float: right; }
+#about-third .row.dotborder		{ border-bottom: 2px dotted #302b27; padding: 0 0 10px; overflow: hidden; }
+#about-third .row.solidborder	{ border-bottom: 2px solid #302b27; padding: 0 0 10px; overflow: hidden;}
+#about-fourth .row.dotborder	{ border-bottom: 2px dotted #302b27; padding: 0 0 10px; }
+#about-fourth .row.solidborder	{ border-bottom: 2px solid #302b27; padding: 0 0 10px; }
+
+#about-third .row div	{ float: left; }
+#about-third .row div.onehandSword	{ background: url(assets/img/weapons/bg-weapons-1handsword.png) no-repeat right 30px; width: 360px; height: 310px; padding: 0 100px 0 0; border-right: 2px dotted #302b27; }
+#about-third .row div.onehandHammer	{ background: url(assets/img/weapons/bg-weapons-1handhammer.png) no-repeat right 30px; width: 288px; height: 311px; padding: 0 150px 0 20px; }
+#about-third .row div.twohandSword	{ background: url(assets/img/weapons/bg-weapons-2handsword.png) no-repeat 200px 50px; width: 210px; height: 400px; padding: 0 90px 0 0;  border-right: 2px dotted #302b27; }
+#about-third .row div.twohandHammer	{ background: url(assets/img/weapons/bg-weapons-2handhammer.png) no-repeat 200px 50px; width: 165px; height: 400px; padding: 0 125px 0 20px;  border-right: 2px dotted #302b27; }
+#about-third .row div.staff			{ background: url(assets/img/weapons/bg-weapons-staff.png) no-repeat 225px 50px; width: 185px; height: 390px; padding: 0 100px 0 20px; }
+
+#about-third .row div.defender		{ background: url(assets/img/weapons/bg-combat-defender.png) no-repeat right 20px; width: 225px; height: 390px; padding: 0 270px 0 0; position: relative; }
+#about-third .row div.berserker		{ background: url(assets/img/weapons/bg-combat-berserker.png) no-repeat right 20px; width: 245px; height: 425px; padding: 0 218px 0 20px; margin: 0 0 0 -60px;  border-left: 2px dotted #302b27; }
+#about-third .row div.cleric		{ background: url(assets/img/weapons/bg-combat-cleric.png) no-repeat right 20px; width: 215px; height: 400px; padding: 0 300px 0 0; position: relative; }
+#about-third .row div.sorcerer		{ background: url(assets/img/weapons/bg-combat-sorcerer.png) no-repeat right 20px; width: 200px; height: 400px; padding: 0 260px 0 20px; margin: 0 0 0 -80px; border-left: 2px dotted #302b27; }
+
+.bg-info-content .bg-content-mid p {
+	width: inherit;
+}
+
+.onehandSword {
+	padding-right: 100px;
+}
+
+.redirect-lb-container { 
+	position: fixed; 
+	background: #1b1c1f; 
+	top: 50%; 
+	left: 50%; 
+	width: 480px; 
+	padding: 30px 30px 0; 
+	margin: -350px 0 0 -270px;
+	border: solid 1px #393a3d;
+	box-shadow: 1px 1px #000, -1px -1px #000; 
+	font-family: Lucida Grande, sans-serif; 
+}
+
+.redirect-lb-container a { 
+	color: #fff; 
+	font: normal 12px/18px "Lucida Grande", sans-serif; 
+}
+
+.redirect-lb-container a { 
+	text-decoration: none; 
+}
+
+.redirect-lb-container h2 { 
+	text-align: center; 
+	color: #fff; 
+	font: normal 22px/22px "Lucida Grande", sans-serif; 
+	margin-bottom: 20px; 
+}
+
+.redirect-lb-container h3 { 
+	text-align: center; 
+	color: #fff; 
+	margin: 7px 0 20px; 
+}
+.redirect-lb-container h3 a { 
+	font: normal 14px/24px "Lucida Grande", sans-serif; 
+}
+
+.redirect-lb-container p { 
+	color: #a7a7a7;
+	font: normal 14px/18px "Lucida Grande", sans-serif; 
+	margin: 10px 0 20px; 
+}
+
+.redirect-lb-container p span { 
+	color: #fff; 
+	font-weight: bold; 
+}
+
+.redirect-lb-container ul { 
+	margin: 20px 0 20px;
+	list-style-type: disc; 
+	color: #a7a7a7;
+	list-style-position: inside; 
+}
+
+.redirect-lb-container ul li { 
+	font: 14px/22px "Lucida Grande", Sans-serif
+}
+
+.btn-go-to-wrapper { 
+	text-align: center; 
+}
+
+.onehandSword {
+	box-sizing: content-box !important;
+}
+
+.onehandHammer {
+	box-sizing: content-box !important;
+}
+
+.twohandSword {
+	box-sizing: content-box !important;
+}
+
+.twohandHammer {
+	box-sizing: content-box !important;
+}
+
+.staff {
+	box-sizing: content-box !important;
+}
+
+.defender {
+	box-sizing: content-box !important;
+}
+
+.berserker {
+	box-sizing: content-box !important;
+}
+
+.cleric {
+	box-sizing: content-box !important;
+}
+
+.sorcerer {
+	box-sizing: content-box !important;
+}
+
+.dotborder h1 {
+	text-align: center;
+	width: 100%;
+	font-size: 35px !important;
+}
+
+#about-third h1 {
+	text-align: center;
+	width: 100%;
+	padding: 50px 0 25px 0;
+	font-size: 35px !important;
+}
+
+#about-section {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-character {
+    background: url(assets/img/bkground.jpg);
+    background-size: cover;
+    background-position: -350px;
+}
+
+.bg-info-content .bg-content-mid {
+    background: transparent;
+}
+
+.bg-info-content .bg-content-mid {
+	background: transparent;
+}
+
+.bg-info-content .bg-content-mid p {
+	color: #666666;
+	font-size: 14px;
+	line-height: 1.7;
+}
+
+.bg-info-content .bg-content-mid h3 {
+	color: #666666;
+}
+
+.bg-info-content .bg-content-mid h2 {
+	color: #232323;
+}
+
+.bg-info-content .bg-content-mid h1 {
+	color: #232323;
+}
+
+.bg-info-content .bg-content-mid div {
+	color: #666666;
+}
+
+@font-face {
+	src: url(fonts/roboto.ttf);
+	font-family: Font;
+}
+
+/*@font-face {
+	src: url(fonts/opensans.ttf);
+	font-family: Font;
+}*/
+
+/*@font-face {
+	src: url(fonts/montserrat.ttf);
+	font-family: Font;
+}*/
+
+* {
+	font-family: Font !important;
+}
